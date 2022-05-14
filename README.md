@@ -22,11 +22,8 @@ Müşteriler, alışverişlerinden sonra satıcı paneline kendi id numaralarıy
 7- Bu sayede hem e-ticaret sitelerindeki yorumların silinme ve değiştirilme riskini ortadan kaldırarak yanıltıcı satıcı puanlarını ortadan kaldırıyoruz, hem alıcıya güvenebileceği bir satıcı profili sunuyoruz, hem de satıcıya bireysel satış yapmak istediğinde ekonomik bir güvenlik çözümü sunuyoruz.
 
 
-
-
 -Takım üyeleri-
-
-[**Umut ERCAN,**](https://github.com/umut3rc)
-[**Hanifi ŞİŞMAN,**](https://github.com/hanifastic)
-[**Burak Baki ERDOĞAN,**](https://github.com/burakbakierdogan)
-[**Emrecan İŞCAN**](https://github.com/EmiIyo)
+<br />[**Umut ERCAN,**](https://github.com/umut3rc)
+<br />[**Hanifi ŞİŞMAN,**](https://github.com/hanifastic)
+<br />[**Burak Baki ERDOĞAN,**](https://github.com/burakbakierdogan)
+<br />[**Emrecan İŞCAN**](https://github.com/EmiIyo)
