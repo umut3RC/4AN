@@ -13,6 +13,8 @@ namespace formHEBU42_4AN
 {
     public partial class Form1 : Form
     {
+        bool mouseDown;
+        private Point offset;
         public Form1()
         {
             InitializeComponent();
@@ -139,6 +141,50 @@ namespace formHEBU42_4AN
         private void button_myprofile_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button_search_Click(object sender, EventArgs e)
+        {
+            string id = t_box_search.Text;
+            t_box_info.Visible = true;
+
+            get_id(id);
+        }
+
+        private void button_close_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_MouseDown(object sender, MouseEventArgs e)
+        {
+            offset.X = e.X;
+            offset.Y = e.Y;
+            mouseDown = true;
+        }
+
+        private void panel1_MouseUp(object sender, MouseEventArgs e)
+        {
+            mouseDown = false;
+        }
+
+        private void panel1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (mouseDown == true)
+            {
+                Point currentScreenPos = PointToScreen(e.Location);
+                Location = new Point(currentScreenPos.X - offset.X, currentScreenPos.Y - offset.Y);
+            }
+        }
+
+        private void panel_close_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
