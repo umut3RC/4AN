@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formHEBU42-4AN", "formHEBU42-4AN.csproj", "{A69A168C-A15A-4905-BE5D-D173F8932D78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A69A168C-A15A-4905-BE5D-D173F8932D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69A168C-A15A-4905-BE5D-D173F8932D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69A168C-A15A-4905-BE5D-D173F8932D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69A168C-A15A-4905-BE5D-D173F8932D78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C4D5E4-8984-4505-83D9-5DEC03965D31}
+	EndGlobalSection
+EndGlobal
