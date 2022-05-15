@@ -1,6 +1,6 @@
 Sunum için hazırlanan demo programı çalıştırmak için:
 
-Dosya içindeki bin/Debug/ dizinine gidiniz ve "formHEBU42-4AN.exe" isimli dosyayı çalıştırınız.
+Dosya içindeki bin/Debug/ dizinine gidiniz ve "formHEBU42-4AN.exe" isimli dosyayı çalıştırınız. Programın çalışması için 64 Bit Windows işletim sistemi önerilmektedir.
 
 Kullanımı:
 
